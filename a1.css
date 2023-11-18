@@ -1,0 +1,248 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+
+.navbar{
+    background-color: #1A187A;
+    height: 100px;
+    
+    
+}
+
+.container{
+    padding: 16px 198px;
+    width: 100px;
+    
+
+}
+
+.brandLogo{
+    width: 239px;
+    padding-left: 120px;
+}
+
+.navList{
+    color: #5E5DA2;
+    display: flex;
+    gap: 52px;
+    
+}
+
+
+
+.navList > li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.active{
+    font-weight: 600;
+    color: white;
+}
+
+.ipad{
+    width: 513px;
+}
+
+.title{
+    font-size: 49px;
+    font-weight: 500;
+}
+
+.textContainer{
+    width: 345px;
+}
+
+.textContainer2{
+    width: 160px;
+}
+
+.container2{
+    display: flex;
+    height: 328px;
+    justify-items: center;
+    align-items: center;
+    overflow: hidden;
+    padding-top: 40px;
+}
+
+.headphone{
+
+    background: #ADC2D7;
+    gap: 50px;
+
+}
+
+.title2{
+    font-weight: 300;
+}
+
+.title2 > span{
+    font-weight: 500;
+}
+
+.top{
+    display: flex;
+}
+
+.laptop{
+    height: 656px;
+    padding: 56px;
+    background: #EDEDED;
+    gap: 150px;
+}
+
+.laptop > img{
+   width: 829px;
+}
+
+.textContainer2 > button{
+    width: 196px;
+    background-color: #27448E;
+    color: white;
+    border: 0;
+    border-radius: 6px;
+    height: 56px;
+    
+ }
+
+ .card1{
+   background-color: #1A187A;
+
+ }
+ .B1{
+    background-color: black;
+    color: wheat;
+    border-radius: 6px;
+    width: 150px;
+ }
+.ext{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-body{
+    text-align: center;
+}
+
+.icon{
+    width: 70px;
+    margin-bottom: 20px;
+}
+.phone{
+    padding-left:92px;
+    padding-bottom:24px;
+    padding-top: 24px;
+    padding-right: 92px;
+    background-color: #EDEDED;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;    
+    
+}
+.xt{
+    width: 100%;
+    display: flex ;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.browse{
+    margin-left: 182px;
+    margin-bottom: 182px;
+    margin-top: 60px;
+}
+
+.banner{
+    background-color: #958AD4;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding: 50px;
+    
+}
+
+.banner > div > h1 > span{
+    color: #1A187A;
+}
+
+.banner > div > h1{
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.banner > img {
+    
+    
+    width: 421px;
+}
+
+.banner > div {
+    margin-left: 266px;
+    margin-right: 266px;
+    text-align: center;
+}
+
+.image{
+    position: relative;
+    right: -300px;
+}
+
+.image2{
+    right: 300px;
+    position: relative;
+}
+
+.banner > div > p {
+    width: 383px;
+    text-align: center;
+}
+
+footer{
+    padding: 160px 100px;
+    
+}
+.txt{
+    color: #EDEDED;
+    width: 140px;
+    margin-top: 70px;
+    
+}
+.last{
+   display: flex;
+    background: #0E071B;
+    /* justify-content: space-around; */
+    gap: 200px;
+}
+.tx{
+    color: #EDEDED;
+    width: 140px;
+    margin-top: 70px;
+     
+}
+.fbic{
+    width: 50px;
+    margin-top: 100px;
+   margin-left: 50px;
+}
+.tt{
+    display: flex;
+}
+.carousel-item active{
+    width: 10px;
+}
+.pic2{
+    perspective-origin: 50px;
+}
+.butten11{
+    background-color: #1A187A;
+    color: white;
+    border-radius: 10%;
+}
